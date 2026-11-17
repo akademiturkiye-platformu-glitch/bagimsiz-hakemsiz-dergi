@@ -11,6 +11,8 @@ düşüncelerin okurlarla buluşması amacıyla oluşturulmuştur.
 
 ### Birinci makalenin başlığı Atatürk'ün Vefatının 88. Yılında Vaziyetimiz
 
-Bu alana makalenizi tanıtan bir veya iki cümle yazın.
+Atatürk'ün Vefatının 88. Yılında Vaziyetimiz
 
-[PDF’yi aç ve oku](Atatürk.pdf)
+<a href="Atatürk.pdf" target="_blank" rel="noopener">
+  PDF’yi aç ve oku (yeni sekmede)
+</a>(Atatürk.pdf)
