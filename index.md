@@ -30,14 +30,25 @@ düşüncelerin okurlarla buluşması amacıyla oluşturulmuştur.
 
 
 
-
-
+<img src="baglam.jpg" alt="dördüncü makalenin kapağı" width="350">
 
 <a href="baglam.pdf" target="_blank" rel="noopener">Kur’an’ı Anlamanın Anahtarı: Bağlam</a>
-<a href="" target="_blank" rel="noopener"> </a>
+
+
+
+<img src="admn-3331.jpg" alt="beşinci makale kapağı" width="350">
 
 <a href="ilahiyatfakulteleri.pdf" target="_blank" rel="noopener">İlahiyat fakültelerinin bugünkü durumu</a>
 
+
+
+
+<img src="aduman-0120222.JPG" alt="Atatürk'ün Vefatının 88. Yılında Vaziyetimiz makalesinin kapağı" width="350">
+
 <a href="sefaatanlayisi.pdf" target="_blank" rel="noopener">Şefaat Anlayışı ile Torpil Kültürü Arasındaki İlişki</a>
+
+
+
+
 
 <a href="IKINCI-DOSYA.pdf" target="_blank" rel="noopener">İkinci makalenin başlığı</a>
