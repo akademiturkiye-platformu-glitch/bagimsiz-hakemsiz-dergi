@@ -14,7 +14,7 @@ düşüncelerin okurlarla buluşması amacıyla oluşturulmuştur.
 Atatürk'ün Vefatının 88. Yılında Vaziyetimiz
 
 ## Makaleler
-<img src="aataturk.jpg" alt="Atatürk'ün Vefatının 88. Yılında Vaziyetimiz makalesinin kapağı" width="350">
+<img src="ataturk.jpg" alt="Atatürk'ün Vefatının 88. Yılında Vaziyetimiz makalesinin kapağı" width="350">
 
 <a href="Atatürk.pdf" target="_blank" rel="noopener">Atatürk'ün Vefatının 88. Yılında Vaziyetimiz</a>
 
@@ -22,12 +22,14 @@ Atatürk'ün Vefatının 88. Yılında Vaziyetimiz
 
 <a href="HzOmer.pdf" target="_blank" rel="noopener">Hz. Ömer’in Müslüman Olması ile İlgili Rivayetler Hakkında Bir Değerlendirme</a>
 
-<img src="hzomer.jpg" alt="İkinci makalenin kapağı" width="350">
+<img src="hzmuh-dogum.jpg" alt="üçüncü makalenin kapağı" width="350">
 
 <a href="hzmuh-dogumu.pdf" target="_blank" rel="noopener">Hz. Muhammed’in Doğumunda Kâinatın Düzeni Değişti mi? Rivayetler, Kur’an ve Peygamber Tasavvuru</a>
 
+<img src="baglam.jpg" alt="Atatürk'ün Vefatının 88. Yılında Vaziyetimiz makalesinin kapağı" width="350">
 
-<a href="baglam.pdf" target="_blank" rel="noopener"> Kur’an’ı Anlamanın Anahtarı: Bağlam</a>
+<a href="baglam.pdf" target="_blank" rel="noopener">Kur’an’ı Anlamanın Anahtarı: Bağlam</a>
+<a href="" target="_blank" rel="noopener"> </a>
 
 <a href="ilahiyatfakulteleri.pdf" target="_blank" rel="noopener">İlahiyat fakültelerinin bugünkü durumu</a>
 
