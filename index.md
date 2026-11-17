@@ -9,18 +9,15 @@ düşüncelerin okurlarla buluşması amacıyla oluşturulmuştur.
 
 ## Makaleler
 
-### Birinci makalenin başlığı Atatürk'ün Vefatının 88. Yılında Vaziyetimiz
-
-Atatürk'ün Vefatının 88. Yılında Vaziyetimiz
-
-## Makaleler
 <img src="ataturk.jpg" alt="Atatürk'ün Vefatının 88. Yılında Vaziyetimiz makalesinin kapağı" width="350">
 
 <a href="Atatürk.pdf" target="_blank" rel="noopener">Atatürk'ün Vefatının 88. Yılında Vaziyetimiz</a>
 
-<img src="hzomer.jpg" alt="ikinci makalesinin kapağı" width="350">
 
-<a href="HzOmer.pdf" target="_blank" rel="noopener">Hz. Ömer’in Müslüman Olması ile İlgili Rivayetler Hakkında Bir Değerlendirme</a>
+<img src="hzomer.png" alt="Atatürk'ün Vefatının 88. Yılında Vaziyetimiz makalesinin kapağı" width="350">
+
+<a href="HzOmer.pdf" target="_blank" rel="noopener">AtaHz. Ömer’in Müslüman Olması ile İlgili Rivayetler Hakkında Bir Değerlendirme</a>
+
 
 
 <img src="hzmuh-dogum.jpg" alt="üçüncü makalenin kapağı" width="350">
