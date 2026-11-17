@@ -13,6 +13,6 @@ düşüncelerin okurlarla buluşması amacıyla oluşturulmuştur.
 
 Atatürk'ün Vefatının 88. Yılında Vaziyetimiz
 
-<a href="Atatürk.pdf" target="_blank" rel="noopener">
-  PDF’yi aç ve oku (yeni sekmede)
-</a>(Atatürk.pdf)
+## Makaleler
+
+<a href="Atatürk.pdf" target="_blank" rel="noopener">Atatürk'ün Vefatının 88. Yılında Vaziyetimiz</a>
