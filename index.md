@@ -18,9 +18,10 @@ Atatürk'ün Vefatının 88. Yılında Vaziyetimiz
 
 <a href="Atatürk.pdf" target="_blank" rel="noopener">Atatürk'ün Vefatının 88. Yılında Vaziyetimiz</a>
 
-<img src="hzomer.jpg" alt="İkinci makalenin kapağı" width="350">
+<img src="hzomer.jpg" alt="ikinci makalesinin kapağı" width="350">
 
 <a href="HzOmer.pdf" target="_blank" rel="noopener">Hz. Ömer’in Müslüman Olması ile İlgili Rivayetler Hakkında Bir Değerlendirme</a>
+
 
 <img src="hzmuh-dogum.jpg" alt="üçüncü makalenin kapağı" width="350">
 
