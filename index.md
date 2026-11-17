@@ -14,17 +14,24 @@ düşüncelerin okurlarla buluşması amacıyla oluşturulmuştur.
 <a href="Atatürk.pdf" target="_blank" rel="noopener">Atatürk'ün Vefatının 88. Yılında Vaziyetimiz</a>
 
 
+
+
 <img src="hzomer.png" alt="Hz. Ömer’in Müslüman Olması ile İlgili Rivayetler Hakkında Bir Değerlendirme" width="350">
 
 <a href="HzOmer.pdf" target="_blank" rel="noopener">Hz. Ömer’in Müslüman Olması ile İlgili Rivayetler Hakkında Bir Değerlendirme</a>
 
 
 
-<img src="hzmuh-dogum.jpg" alt="üçüncü makalenin kapağı" width="350">
+
+<img src="hzmuh.png" alt="Hz. Muhammed’in Doğumunda Kâinatın Düzeni Değişti mi? Rivayetler, Kur’an ve Peygamber Tasavvuru" width="350">
 
 <a href="hzmuh-dogumu.pdf" target="_blank" rel="noopener">Hz. Muhammed’in Doğumunda Kâinatın Düzeni Değişti mi? Rivayetler, Kur’an ve Peygamber Tasavvuru</a>
 
-<img src="baglam.jpg" alt="Atatürk'ün Vefatının 88. Yılında Vaziyetimiz makalesinin kapağı" width="350">
+
+
+
+
+
 
 <a href="baglam.pdf" target="_blank" rel="noopener">Kur’an’ı Anlamanın Anahtarı: Bağlam</a>
 <a href="" target="_blank" rel="noopener"> </a>
