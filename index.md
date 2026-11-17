@@ -14,9 +14,9 @@ düşüncelerin okurlarla buluşması amacıyla oluşturulmuştur.
 <a href="Atatürk.pdf" target="_blank" rel="noopener">Atatürk'ün Vefatının 88. Yılında Vaziyetimiz</a>
 
 
-<img src="hzomer.png" alt="Atatürk'ün Vefatının 88. Yılında Vaziyetimiz makalesinin kapağı" width="350">
+<img src="hzomer.png" alt="Hz. Ömer’in Müslüman Olması ile İlgili Rivayetler Hakkında Bir Değerlendirme" width="350">
 
-<a href="HzOmer.pdf" target="_blank" rel="noopener">AtaHz. Ömer’in Müslüman Olması ile İlgili Rivayetler Hakkında Bir Değerlendirme</a>
+<a href="HzOmer.pdf" target="_blank" rel="noopener">Hz. Ömer’in Müslüman Olması ile İlgili Rivayetler Hakkında Bir Değerlendirme</a>
 
 
 
