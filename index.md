@@ -1,24 +1,16 @@
-<header id="ust" style="background:#102b46; color:#ffffff; padding:30px 20px; border-radius:12px; margin-bottom:28px;">
-
-  <div style="display:flex; align-items:center; justify-content:center; gap:24px; flex-wrap:wrap; text-align:center;">
-
-    <img src="akademi-logo.png" alt="Akademi Türkiye logosu" style="width:130px; max-width:100%; height:auto;">
-
-    <div>
-      <h1 style="color:#ffffff; font-size:36px; margin:0 0 12px; border:0;">Akademi Türkiye</h1>
-      <p style="color:#ffffff; font-size:18px; margin:0;">Hakemsiz, sansürsüz, özgür bilim platformu.</p>
-      <p style="color:#dce7f1; margin:12px 0 0;">Bilimsel yazılar, araştırmalar ve düşünceler</p>
-    </div>
-
-  </div>
-
-  <nav aria-label="Ana menü" style="display:flex; justify-content:center; flex-wrap:wrap; gap:24px; margin-top:26px; padding-top:18px; border-top:1px solid #60768b;">
-    <a href="#ust" style="color:#ffffff; text-decoration:underline;">Ana Sayfa</a>
-    <a href="#hakkimizda" style="color:#ffffff; text-decoration:underline;">Hakkımızda</a>
-    <a href="#makaleler" style="color:#ffffff; text-decoration:underline;">Makaleler</a>
-  </nav>
-
-</header>
+<div id="ust" style="background:#102b46; color:white; padding:30px 20px; text-align:center; border-radius:12px; margin-bottom:25px;">
+<img src="akademi-logo.png" alt="Akademi Türkiye logosu" width="130">
+<h1 style="color:white; border:0; margin:15px 0;">Akademi Türkiye</h1>
+<p style="color:white; font-size:18px;">Hakemsiz, sansürsüz, özgür bilim platformu.</p>
+<p style="color:#dce7f1;">Bilimsel yazılar, araştırmalar ve düşünceler</p>
+<p style="margin-top:25px;">
+<a href="#ust" style="color:white;">Ana Sayfa</a>
+&nbsp; | &nbsp;
+<a href="#hakkimizda" style="color:white;">Hakkımızda</a>
+&nbsp; | &nbsp;
+<a href="#makaleler" style="color:white;">Makaleler</a>
+</p>
+</div>
 
 
 
