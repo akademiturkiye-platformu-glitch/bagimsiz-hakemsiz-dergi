@@ -1,6 +1,11 @@
-# Akademi Türkiye
+<div align="center">
+  <img src="akademi-logo.png" alt="Akademi Türkiye logosu" width="180">
+  <h1>Akademi Türkiye</h1>
+  <p>Hakemsiz, sansürsüz, özgür bilim platformu.</p>
+</div>
 
-Hakemsiz, sansürsüz, özgür bilim platformu.
+
+
 
 ## Hakkımızda
 
