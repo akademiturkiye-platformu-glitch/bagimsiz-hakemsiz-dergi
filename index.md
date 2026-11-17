@@ -23,7 +23,7 @@ düşüncelerin okurlarla buluşması amacıyla oluşturulmuştur.
 
 
 
-<img src="hzmuh-dogum.png" alt="Hz. Muhammed’in Doğumunda Kâinatın Düzeni Değişti mi? Rivayetler, Kur’an ve Peygamber Tasavvuru" width="350">
+<img src="hzmuh-dogum.png" alt="üçüncü makale kapak" width="350">
 
 <a href="hzmuh-dogumu.pdf" target="_blank" rel="noopener">Hz. Muhammed’in Doğumunda Kâinatın Düzeni Değişti mi? Rivayetler, Kur’an ve Peygamber Tasavvuru</a>
 
