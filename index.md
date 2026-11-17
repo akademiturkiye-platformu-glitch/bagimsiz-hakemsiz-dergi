@@ -14,6 +14,9 @@ düşüncelerin okurlarla buluşması amacıyla oluşturulmuştur.
 Atatürk'ün Vefatının 88. Yılında Vaziyetimiz
 
 ## Makaleler
+<img src="ataturk.jpg" alt="Atatürk'ün Vefatının 88. Yılında Vaziyetimiz makalesinin kapağı" width="350">
+
+<a href="Atatürk.pdf" target="_blank" rel="noopener">Atatürk'ün Vefatının 88. Yılında Vaziyetimiz</a>
 
 <a href="Atatürk.pdf" target="_blank" rel="noopener">Atatürk'ün Vefatının 88. Yılında Vaziyetimiz</a>
 
